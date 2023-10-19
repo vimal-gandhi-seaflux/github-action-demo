@@ -2,7 +2,7 @@
   "name": "github-actions-crash-course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vimal-gandhi-seaflux.github.io/github-actions-crash-course",
+  "homepage": "https://vimal-gandhi-seaflux.github.io/github-action-demo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
